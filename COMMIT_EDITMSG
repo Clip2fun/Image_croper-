@@ -1,0 +1,7 @@
+Keep crop area consistent when resizing image for download
+
+Fixes image cropping area shift on dimension change by using a fixed preview size in `ImageCropper.tsx`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: ad30196b-eb09-4c88-a5fa-c56f07197bf6
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/b5fc7cf3-e2a7-4b36-9770-28bcec3710dd/4b899c39-d8f8-4181-b1c3-8a463247aee6.jpg
